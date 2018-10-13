@@ -733,7 +733,7 @@ V1 --> Vr --> Rotate to 8deg --> @50ft Rotate to 15deg -->Climb @V2 + 15ktn --> 
                 </binding>
             </key>
  
- <key n="9">
+ <!--key n="9">
         <name>Tab</name>
         <desc>switch Groundspoiler-Arm</desc>
         <binding>
@@ -742,7 +742,7 @@ V1 --> Vr --> Rotate to 8deg --> @50ft Rotate to 15deg -->Climb @V2 + 15ktn --> 
           <value>true</value>
           <value>false</value>
         </binding>
-      </key>
+      </key-->
 
 			<key n="127">
 				<name>Delete</name>

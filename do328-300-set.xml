@@ -683,7 +683,7 @@ Started by Heiko Schulz
                 </binding>
             </key>
  
- <key n="9">
+ <!--key n="9">
         <name>Tab</name>
         <desc>switch Groundspoiler-Arm</desc>
         <binding>
@@ -692,7 +692,7 @@ Started by Heiko Schulz
           <value>true</value>
           <value>false</value>
         </binding>
-      </key>
+      </key-->
 
 			   
     </keyboard>
